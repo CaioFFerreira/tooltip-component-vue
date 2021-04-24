@@ -1,4 +1,4 @@
-## Tooltip component vuejs
+## Tooltip componente vuejs totalmente customizavél
 
 ### Como usar?
 
@@ -12,6 +12,5 @@
 
 ### Resultado?
 
-![Resultado](https://raw.githubusercontent.com/CaioFFerreira/tooltip-component-vue/master/images/tooltip.png?token=AH7RCEJ2KQVUFFDE3GGSXY3AQSS22)
+![Resultado](https://raw.githubusercontent.com/CaioFFerreira/tooltip-component-vue/master/images/tooltip.png?token=AH7RCEPFR6HIGT56IFZ6UOLAQSUCI)
 
-### Como Customizar?
