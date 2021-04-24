@@ -2,7 +2,7 @@
 
 ### Como usar?
 
-- Na prop text você pode passar o texto do tooltip no exemplo o social.name é o valor inserido.
+- Na prop text você pode passar o texto do tooltip.
 - Coloque dentro do  <tooltip> </tooltip> o contéudo que irá ativar o tooltip.
  ``` html
   <tooltip text="Texto do tooltip">
