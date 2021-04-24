@@ -3,7 +3,7 @@
 ### Como usar?
 
 - Na prop text você pode passar o texto do tooltip.
-- Coloque dentro do  <tooltip> </tooltip> o contéudo que irá ativar o tooltip.
+- Coloque dentro do  <tooltip> </tooltip> contéudo que irá ativar o tooltip.
  ``` html
   <tooltip text="Github">
       <img :src="github.png" alt="github"/>
