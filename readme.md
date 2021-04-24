@@ -3,3 +3,10 @@
 ### Como usar?
 
 ![como usar](https://raw.githubusercontent.com/CaioFFerreira/tooltip-component-vue/master/images/como-usar.PNG?token=AH7RCEPELOKUFTOGIRUFKYTAQSSLW)
+
+
+### Resultado?
+
+![Resultado](https://raw.githubusercontent.com/CaioFFerreira/tooltip-component-vue/master/images/tooltip.png?token=AH7RCEJ2KQVUFFDE3GGSXY3AQSS22)
+
+### Como Customizar?
