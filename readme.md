@@ -2,6 +2,8 @@
 
 ### Como usar?
 
+Na prop text você pode passar o texto do tooltip no exemplo o social.name é o valor inserido.
+
 ![como usar](https://raw.githubusercontent.com/CaioFFerreira/tooltip-component-vue/master/images/como-usar.PNG?token=AH7RCEPELOKUFTOGIRUFKYTAQSSLW)
 
 
