@@ -1,4 +1,4 @@
-## Tooltip componente vuejs totalmente customizavél
+## Tooltip componente vue.js totalmente customizavél
 
 ### Como usar?
 
